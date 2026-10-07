@@ -1,31 +1,144 @@
-# Hi, I'm Kailash
+<div align="center">
 
-I'm a third-year B.Tech Artificial Intelligence & Robotics student at VIT Chennai. I work on full-stack applications and explore how language models, retrieval, and data tools can make them more useful.
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&pause=9999999&color=39FF14&background=0D1117&center=true&vCenter=true&width=900&height=88&lines=KAILASH+P" alt="Kailash P" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=1800&color=00D9FF&background=0D1117&center=true&vCenter=true&width=900&height=50&lines=Btech+%7C+AI+%7C+VIT+Chennai;Training+models+and+biceps;Turning+coffee+into+commits;Still+compiling+my+life" alt="Typing SVG" />
 
-I recently completed a Software Engineering internship at Ramco Systems, working on full-stack and AI tasks, including semantic API discovery, RAG, and application debugging. My first internship was in Data Science at Corizo.
+</div>
 
-## Projects
+<br>
 
-| Project | What I'm building |
-| --- | --- |
-| [Code Clash](https://github.com/kailashp-27/Code-Clash) | Multiplayer coding battles and a browser code sandbox |
-| [EchoSphere](https://github.com/kailashp-27/EchoSphere) | A document and note workspace with local AI study tools |
-| [API Retrieval System](https://github.com/kailashp-27/API-Retrival-System) | Semantic API search and suggested integration workflows |
-| [ForenSight AI](https://github.com/kailashp-27/ForenSight-AI) | Case and evidence review with transcription and transcript analysis |
-| [EcoSplice](https://github.com/kailashp-27/DNA-Splice-Site-Identification) | A DNA motif analysis dashboard and splice-site dataset preparation |
-| [AuditPay](https://github.com/kailashp-27/Audit-Pay) | A coursework app for payroll, attendance, and leave management |
-| [hoWrk](https://github.com/kailashp-27/hoWrk) | A hackathon app for incident reports, guardian support, and resource maps |
-| [StrideLog](https://github.com/kailashp-27/StrideLog) | A browser-based treadmill run log |
+<div align="center">
+<i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+</div>
 
-These projects are at different stages. Their READMEs describe what currently works and what is still in progress.
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pixel/pixel-original.svg" width="0" height="0" alt="" />
 
-## Tools I use
+## ▸ ABOUT ME
 
-- **Languages:** Python, Java, C, C++, JavaScript, and TypeScript.
-- **Web:** React, Node.js, Express, and FastAPI.
-- **Data and AI:** MongoDB, SQL databases, FAISS, RAG, and local language models.
-- **Development:** Git, Docker, and AWS.
+<table>
+<tr>
+<td valign="top" width="55%">
 
-Outside coding, I enjoy the gym, running, and chess.
+- 🎓 3rd-year **B.Tech CSE (AI & Robotics)** student at VIT Chennai
+- 🔭 Currently building **ForenSight** and **Code Clash**
+- 💪 When I'm not coding, you'll find me at the gym
+- ♟️ I enjoy playing chess in my downtime
+- 📫 Reach me at **kingkailash27@gmail.com**
 
-[LinkedIn](https://www.linkedin.com/in/kailash-p-486b9b321/) · [LeetCode](https://www.leetcode.com/kailash_p) · [Email](mailto:kingkailash27@gmail.com)
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding GIF" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## ▸ 🕹️ SKILL TREE
+
+<div align="center">
+
+**Languages**
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+
+**Frontend**
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind"/>
+
+**Backend & Databases**
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle"/>
+
+**Cloud, AI & Tools**
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="scikit-learn"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40" alt="Git"/>
+
+</div>
+
+<br>
+
+## ▸ 🎮 QUEST LOG — TOP PROJECTS
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kailashp-27/Code-Clash">⚔️ Code Clash</a></h3>
+      <p>Real-time competitive coding battle platform with a Monaco-powered in-browser editor, live multiplayer via Socket.io, and secure code execution through Judge0.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kailashp-27/EchoSphere">🧠 EchoSphere</a></h3>
+      <p>AI-powered personal knowledge base built on strict RAG — query only your own uploaded notes and papers, with zero hallucination and interactive knowledge graphs.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kailashp-27/hoWrk">🚨 hoWrk</a></h3>
+      <p>Hackathon-built civic incident reporting platform — citizens, guardians, and authorities connected on one live map.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kailashp-27/Audit-Pay">💰 AuditPay</a></h3>
+      <p>Secure payroll management &amp; financial audit system with a strict three-tier role hierarchy — built as a DBMS coursework project.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## ▸ GITHUB STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kailash-27&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash-27&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kailash-27&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats"/>
+
+</div>
+
+
+
+<br>
+
+## ▸ ⚔️ SIDE QUESTS
+
+- ♟️ Chess — always up for a game
+- 🏋️ Gym regular — building the body alongside the codebase
+- 🤖 Messing around with small robotics side-projects
+
+<br>
+
+## ▸ CONNECT
+
+<div align="center">
+
+<a href="https://github.com/kailashp-27" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="35" width="45"/></a>
+<a href="https://www.linkedin.com/in/kailash-p-486b9b321/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45"/></a>
+<a href="https://instagram.com/kailash___27" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45"/></a>
+<a href="https://www.leetcode.com/kailash_p" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45"/></a>
+<a href="mailto:kingkailash27@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="35" width="45"/></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=kailash-27&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
+
+<br><br>
+<p align="center"><i>Thanks for stopping by — go build something.</i></p>
+
+</div>
