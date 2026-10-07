@@ -1,42 +1,34 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&pause=9999999&color=39FF14&background=0D1117&center=true&vCenter=true&width=900&height=88&lines=KAILASH+P" alt="Kailash P" />
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=1800&color=00D9FF&background=0D1117&center=true&vCenter=true&width=900&height=50&lines=Btech+%7C+AI+%7C+VIT+Chennai;Training+models+and+biceps;Turning+coffee+into+commits;Still+compiling+my+life" alt="Typing SVG" />
+<img src="assets/arcade-banner.svg" width="900" alt="Kailash P — frontend, UI, and one more LeetCode problem. Retro arcade profile banner." />
 
 </div>
 
 <br>
 
 <div align="center">
-<i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+<i>A little shy. Still learning. One build at a time.</i>
 </div>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pixel/pixel-original.svg" width="0" height="0" alt="" />
+## ▸ PLAYER ONE
 
-## ▸ ABOUT ME
+I’m **Kailash**, a shy third-year **B.Tech CSE (AI & Robotics)** student at **VIT Chennai** who loves coding. I’m drawn to websites with great UI, and I’m learning how to build them myself.
 
-<table>
-<tr>
-<td valign="top" width="55%">
+Frontend UI is the part I enjoy most. I’m still learning design—how to make a page look better, feel better, and be easier to use.
 
-- 🎓 3rd-year **B.Tech CSE (AI & Robotics)** student at VIT Chennai
 - 🔭 Currently building **ForenSight** and **Code Clash**
-- 💪 When I'm not coding, you'll find me at the gym
-- ♟️ I enjoy playing chess in my downtime
+- 🎯 Current quest: practicing **DSA** and keeping my **LeetCode streak** going
+- 🤝 I’d love to connect with fellow developers and build something together
+- 🏋️ Outside coding: the gym and a game of chess
 - 📫 Reach me at **kingkailash27@gmail.com**
 
-</td>
-<td valign="top" width="45%" align="center">
-
-<img src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding GIF" width="100%" />
-
-</td>
-</tr>
-</table>
+My projects are a mix of college work and personal builds. Each one gives me something new to learn.
 
 <br>
 
 ## ▸ 🕹️ SKILL TREE
+
+Tools I’ve used across my projects and coursework. Still leveling up.
 
 <div align="center">
 
@@ -74,24 +66,26 @@
 
 <br>
 
-## ▸ 🎮 QUEST LOG — TOP PROJECTS
+## ▸ ⚔️ MAIN QUEST — CODE CLASH
+
+### [Code Clash](https://github.com/kailashp-27/Code-Clash) · Under development
+
+My main personal project right now: a real-time competitive coding battle platform. It brings together an in-browser editor, multiplayer battles, and code execution. It’s more than halfway built, and I’m still working on the rest.
+
+## ▸ 🎮 QUEST LOG
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/kailashp-27/Code-Clash">⚔️ Code Clash</a></h3>
-      <p>Real-time competitive coding battle platform with a Monaco-powered in-browser editor, live multiplayer via Socket.io, and secure code execution through Judge0.</p>
-    </td>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/kailashp-27/EchoSphere">🧠 EchoSphere</a></h3>
-      <p>AI-powered personal knowledge base built on strict RAG — query only your own uploaded notes and papers, with zero hallucination and interactive knowledge graphs.</p>
+      <p>AI-powered personal knowledge base for querying uploaded notes and papers, with retrieval-augmented answers and interactive knowledge graphs.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/kailashp-27/hoWrk">🚨 hoWrk</a></h3>
       <p>Hackathon-built civic incident reporting platform — citizens, guardians, and authorities connected on one live map.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/kailashp-27/Audit-Pay">💰 AuditPay</a></h3>
       <p>Secure payroll management &amp; financial audit system with a strict three-tier role hierarchy — built as a DBMS coursework project.</p>
@@ -105,10 +99,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kailash-27&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash-27&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kailashp-27&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailashp-27&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kailash-27&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kailashp-27&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats"/>
 
 </div>
 
@@ -136,9 +130,9 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=kailash-27&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=kailashp-27&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
 
 <br><br>
-<p align="center"><i>Thanks for stopping by — go build something.</i></p>
+<p align="center"><i>Player two? Let’s build something together.</i></p>
 
 </div>

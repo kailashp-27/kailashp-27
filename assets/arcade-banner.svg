@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
+  <title id="title">Kailash P — Player One</title>
+  <desc id="desc">Retro arcade banner with a pixel controller, warm gold and mint accents. Frontend, UI, and one more LeetCode problem.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#25283b" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="900" height="260" fill="#131522"/>
+  <rect width="900" height="260" fill="url(#grid)"/>
+  <path d="M28 16H872V28H884V232H872V244H28V232H16V28H28Z" fill="none" stroke="#eac66b" stroke-width="3"/>
+  <g font-family="Consolas, 'Courier New', monospace">
+    <text x="56" y="62" fill="#8be5c2" font-size="15" letter-spacing="4">PLAYER ONE / READY TO LEARN</text>
+    <text x="59" y="125" fill="#644b3d" font-size="52" font-weight="700" letter-spacing="6">KAILASH P</text>
+    <text x="56" y="121" fill="#f6df9c" font-size="52" font-weight="700" letter-spacing="6">KAILASH P</text>
+    <text x="56" y="159" fill="#e7e8ef" font-size="18">Frontend, UI, and one more LeetCode problem.</text>
+    <text x="56" y="207" fill="#8be5c2" font-size="14" letter-spacing="2">CURRENT QUEST</text>
+    <text x="220" y="207" fill="#e7e8ef" font-size="14">CODE CLASH + DSA</text>
+  </g>
+  <g transform="translate(686 82)" shape-rendering="crispEdges">
+    <path d="M24 0H112V12H136V24H148V96H124V84H112V72H24V84H12V96H-12V24H0V12H24Z" fill="#383c56"/>
+    <path d="M24 0H112V12H136V24H148V96H124V84H112V72H24V84H12V96H-12V24H0V12H24Z" fill="none" stroke="#8be5c2" stroke-width="4"/>
+    <path d="M18 30H30V18H42V30H54V42H42V54H30V42H18Z" fill="#f6df9c"/>
+    <rect x="102" y="24" width="12" height="12" fill="#ed849a"/>
+    <rect x="118" y="40" width="12" height="12" fill="#eac66b"/>
+    <rect x="62" y="48" width="12" height="6" fill="#8be5c2"/>
+    <rect x="80" y="48" width="12" height="6" fill="#8be5c2"/>
+  </g>
+</svg>
