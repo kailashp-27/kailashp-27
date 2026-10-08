@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="445" viewBox="0 0 900 445" role="img" aria-labelledby="title desc">
+<title id="title">01 / PLAYER ONE</title><desc id="desc">KAILASH P  //  A LITTLE SHY. STILL LEARNING.</desc>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#25283b" stroke-width="1"/></pattern></defs>
+<rect width="900" height="445" fill="#131522"/><rect width="900" height="445" fill="url(#grid)"/>
+<path d="M20 8H880V20H892V425H880V437H20V425H8V20H20Z" fill="none" stroke="#eac66b" stroke-width="2"/>
+<g font-family="Consolas, 'Courier New', monospace">
+<rect x="32" y="29" width="9" height="9" fill="#8be5c2"/>
+<text x="52" y="42" fill="#f6df9c" font-size="22" font-weight="700" letter-spacing="1">01 / PLAYER ONE</text>
+<text x="32" y="70" fill="#8be5c2" font-size="13" letter-spacing="1">KAILASH P  //  A LITTLE SHY. STILL LEARNING.</text>
+<path d="M32 87H868" stroke="#383c56"/>
+<text x="32" y="123" fill="#e7e8ef" font-size="18" >I’m Kailash, a third-year B.Tech CSE (AI &amp; Robotics)</text>
+<text x="32" y="152" fill="#e7e8ef" font-size="18" >student at VIT Chennai who loves coding. I’m drawn to</text>
+<text x="32" y="181" fill="#e7e8ef" font-size="18" >websites with great UI, and I’m learning to build them myself.</text>
+<text x="32" y="210" fill="#e7e8ef" font-size="18" ></text>
+<text x="32" y="239" fill="#e7e8ef" font-size="18" >Frontend UI is the part I enjoy most. I’m still learning</text>
+<text x="32" y="268" fill="#e7e8ef" font-size="18" >how to make a page look better, feel better, and be easier to use.</text><text x="32" y="321" fill="#8be5c2" font-size="14" >BUILDING</text><text x="170" y="321" fill="#e7e8ef" font-size="18" >ForenSight + Code Clash</text><text x="32" y="353" fill="#8be5c2" font-size="14" >CURRENT QUEST</text><text x="170" y="353" fill="#e7e8ef" font-size="18" >DSA practice + keeping my LeetCode streak</text><text x="32" y="385" fill="#8be5c2" font-size="14" >PARTY INVITE</text><text x="170" y="385" fill="#e7e8ef" font-size="18" >Fellow developers — let’s build together</text><text x="32" y="420" fill="#f6df9c" font-size="16" >College work + personal builds. Each one teaches me something new.</text></g></svg>

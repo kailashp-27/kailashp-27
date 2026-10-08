@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="267" viewBox="0 0 440 267" role="img" aria-labelledby="title desc">
+<title id="title">hoWrk</title><desc id="desc">HACKATHON BUILD</desc>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#25283b" stroke-width="1"/></pattern></defs>
+<rect width="440" height="267" fill="#131522"/><rect width="440" height="267" fill="url(#grid)"/>
+<path d="M20 8H420V20H432V247H420V259H20V247H8V20H20Z" fill="none" stroke="#eac66b" stroke-width="2"/>
+<g font-family="Consolas, 'Courier New', monospace">
+<rect x="32" y="29" width="9" height="9" fill="#8be5c2"/>
+<text x="52" y="42" fill="#f6df9c" font-size="22" font-weight="700" letter-spacing="1">hoWrk</text>
+<text x="32" y="70" fill="#8be5c2" font-size="13" letter-spacing="1">HACKATHON BUILD</text>
+<path d="M32 87H408" stroke="#383c56"/>
+<text x="32" y="125" fill="#e7e8ef" font-size="19" >Civic incident reporting.</text>
+<text x="32" y="153" fill="#e7e8ef" font-size="19" >Citizens, guardians, and</text>
+<text x="32" y="181" fill="#e7e8ef" font-size="19" >authorities connected</text>
+<text x="32" y="209" fill="#e7e8ef" font-size="19" >through one live map.</text><text x="32" y="243" fill="#8be5c2" font-size="14" >OPEN REPOSITORY &gt;</text></g></svg>
