@@ -28,7 +28,7 @@
 <br><br>
 <img src="assets/connect.svg" width="900" alt="Multiplayer lobby: Player two? Let's build something together. Contact me at kingkailash27@gmail.com or through the links below." />
 <br><br>
-<a href="https://github.com/kailashp-27"><img src="assets/connect-github.svg" width="180" alt="GitHub profile" /></a>
+<a href="https://learn.cylabacademy.org/users/kailash27"><img src="assets/connect-cylab.svg" width="180" alt="CyLab Academy profile" /></a>
 <a href="https://www.linkedin.com/in/kailash-p-486b9b321/"><img src="assets/connect-linkedin.svg" width="180" alt="LinkedIn profile" /></a>
 <a href="https://www.leetcode.com/kailash_p"><img src="assets/connect-leetcode.svg" width="180" alt="LeetCode profile" /></a>
 <a href="mailto:kingkailash27@gmail.com"><img src="assets/connect-email.svg" width="180" alt="Email Kailash" /></a>
